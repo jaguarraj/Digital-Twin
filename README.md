@@ -1,2 +1,2 @@
 # Digital-Twin
-Repository for Pyhton code on Concept of Digital Twin of Industrial Hydraulic Power Pack
+Repository for Python code on Concept of Digital Twin of Industrial Hydraulic Power Pack
